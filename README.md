@@ -3,9 +3,14 @@ Repositório para armazenar meus estudos e para futuras consultas de vários ass
 
 ## BOAS PRÁTICAS DE COMMIT
 
-• [Feature] – Quando adicionar uma nova funcionalidade ou criar um arquivo. Pode-se usar '[Feat]' como forma abreviada;
-• [Fix] – Quando se tratar de uma correção de bug;
+ • [Feature] – Quando adicionar uma nova funcionalidade ou criar um arquivo. Pode-se usar '[Feat]' como forma abreviada;
+
+ • [Fix] – Quando se tratar de uma correção de bug;
+
 • [Docs] – Quando se tratar somente de uma alteração na documentação, como uma atualização no README;
+
 • [Style] – Quando mudar somente folhas de estilo;
+
 • [Refactor] – Quando refatorar completamente um trecho de código. Pode-se usar '[Ref]' como forma abreviada;
+
 • [Test] - Quando mudar a estrutura ou a forma de testar o projeto;
