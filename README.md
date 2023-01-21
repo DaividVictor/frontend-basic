@@ -36,6 +36,6 @@ Por exemplo, como descrever o seguinte problema no commit: O desenvolvedor criou
 ```bash
   git c "Criada função de adição de produto [remover o fecha aspas e dar enter p/ pular linha]
   [linha em branco]
-  - A função foi criada para os novos clientes, não cadastrados, conseguirem adicionar produtos ao carrinho antes do login" [p/ encerrar, coloca-se o 
-  fecha aspas e aperta Enter p/ confirmar o commit]
+  - A função foi criada para os novos clientes, não cadastrados, conseguirem adicionar produtos ao carrinho antes 
+  do login" [p/ encerrar, coloca-se o fecha aspas e aperta Enter p/ confirmar o commit]
 ```
